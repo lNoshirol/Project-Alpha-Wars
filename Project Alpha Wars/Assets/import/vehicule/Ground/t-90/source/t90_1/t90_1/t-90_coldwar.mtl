@@ -1,0 +1,26 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl 03babf5e_dds
+Ns 9.803922
+Ka 0.700000 0.700000 0.700000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\Admin\Documents\3DReaperDX\Textures\03babf5e.dds
+map_Ka C:\\Users\\Admin\\Documents\\3DReaperDX\\Textures\\03babf5e.dds
+
+newmtl 65fc2b59_dds
+Ns 9.803922
+Ka 0.700000 0.700000 0.700000
+Kd 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\Admin\Documents\3DReaperDX\Textures\65fc2b59.dds
+map_Ka C:\\Users\\Admin\\Documents\\3DReaperDX\\Textures\\65fc2b59.dds
